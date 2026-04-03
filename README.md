@@ -55,6 +55,8 @@ src/
 | `/` | QuizIntroPage | 0 / 13 |
 | `/task2` | NinthStepPage | 9 / 13 |
 
+You can also navigate between pages by clicking the "Next" and "Back" buttons.
+
 ## Stepper Component
 
 The `Stepper` component is reusable and accepts a `step` prop. It calculates the progress percentage based on a total of 13 steps and renders a progress bar at the top of the screen.
