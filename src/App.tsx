@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import QuizIntroPage from './pages/QuizIntroPage';
+import NinthStepPage from './pages/NinthStepPage';
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
     >
       <Routes>
         <Route path="/" element={<QuizIntroPage />} />
+        <Route path="/task2" element={<NinthStepPage />} />
       </Routes>
     </main>
   )
