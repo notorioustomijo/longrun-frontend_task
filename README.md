@@ -20,7 +20,7 @@ Implementation of two onboarding screens from the provided Figma design, built w
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/notorioustomijo/longrun-frontend_task
 cd <project-folder>
 
 # Install dependencies
